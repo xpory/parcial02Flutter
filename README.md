@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Authors
 -Jerry Josué Argota Melgar.
+
 -Walter Alexander Renderos Suriano.
