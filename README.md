@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Authors
-Jerry Josué Argota Melgar
-Walter Alexander Renderos Suriano
+-Jerry Josué Argota Melgar
+-Walter Alexander Renderos Suriano
